@@ -1,4 +1,20 @@
+アップしたいローカルリポジトリから、
+git init
+(git add README.md)
+git add *.*
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/MAWA-Taka/SelfTaughtPgmr.git
+git push -u origin master
+MAWA-Taka
+ウェブからPersonal access tokensを生成する
+436b18a105ea70fe4fb168d5f7462757b59fb23f
+git credential-osxkeychain store
 
+＜参考＞
+https://qiita.com/n_morioka/items/650d2950f527d594a00f
+
+＜以下がウエッブからのガイド＞
 …or create a new repository on the command line
  echo "# SelfTaughtPgmr" >> README.md
 git init
