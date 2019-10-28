@@ -8,7 +8,7 @@ git remote add origin https://github.com/MAWA-Taka/SelfTaughtPgmr.git
 git push -u origin master
 MAWA-Taka
 ウェブからPersonal access tokensを生成する
-436b18a105ea70fe4fb168d5f7462757b59fb23f
+xxxxxxx
 git credential-osxkeychain store
 
 ＜参考＞
