@@ -1,0 +1,5 @@
+user:MAWA-Taka
+pw:iCloud/Google 2factor auth
+url:https://github.com/MAWA-Taka/hangman.git
+<Personal access tokens>
+ae7736ba57475a5ad3cc597539a38818b4365eed
